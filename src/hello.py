@@ -3,7 +3,7 @@
 
 
 def toyou(x):
-    return f"hi {x}"
+    return f"hello {x}"
 
 
 def add(x):
